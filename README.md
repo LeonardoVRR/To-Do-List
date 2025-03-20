@@ -29,7 +29,7 @@ não é necessário nenhum pré-requisito é só acessar o projeto pelo link dis
 
 ## Acesso ao Projeto
 
-para acessar o projeto utilize o seguinte link:
+para acessar o projeto utilize o seguinte link: https://projeto-lista-tarefas-react.netlify.app/
 
 ## Tecnologias utilizadas
 
