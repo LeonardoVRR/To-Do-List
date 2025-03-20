@@ -1,0 +1,15 @@
+article button {
+  @apply transition-all;
+  @apply duration-300;
+  @apply ease-linear;
+}
+
+article button:hover {
+  @apply bg-slate-300;
+  @apply text-black;
+}
+
+article button:active {
+  @apply scale-[.9];
+  @apply opacity-[.8];
+}
