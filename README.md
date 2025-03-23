@@ -1,5 +1,5 @@
 <h1 align="center">
-    Sistema de supermercado
+    Lista de tarefas
 </h1>
 
 ## Índice
